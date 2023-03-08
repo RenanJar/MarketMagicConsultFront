@@ -2,3 +2,21 @@ html {
     scroll-behavior: smooth;
   }
 
+.isClick{
+  border-color: #2F2E52 !important;
+  border: 3px solid #2F2E52 !important;
+
+}
+.btn-primary{
+  padding: 10px; 
+  background-color: #4d4788; 
+  width: 200px; 
+  height: 100px;
+  --bs-btn-active-bg:#2F2E52;
+  --bs-btn-active-border-color:#2F2E52;
+
+  box-sizing: border-box;
+  border: 3px solid #4d4788;
+  border-radius: 0.5rem;
+  
+}
